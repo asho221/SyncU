@@ -4,13 +4,3 @@ export default {
     autoprefixer: {},
   },
 }
-```
-
----
-
-### 8. `.gitignore`
-```
-node_modules
-dist
-.env
-.DS_Store
